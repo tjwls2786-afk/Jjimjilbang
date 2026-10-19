@@ -1,0 +1,6 @@
+{
+  "name": "K-Relax: 15s Jjimjilbang Script Studio",
+  "description": "Short-form social media narration scriptwriter, reel director previewer, and cultural relaxation guide for international university students visiting Korea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
